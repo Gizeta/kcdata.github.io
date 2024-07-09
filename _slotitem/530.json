@@ -3,34 +3,34 @@ layout: json
 order: 530
 data:
   id: 530
-  sort_no: 0
-  name: 対空レーダ― Mark.II
-  type: [5, 8, 13, 11, 0]
-  rare: 2
-  broken: [0, 0, 0, 0]
+  sort_no: 530
+  name: 35.6cm連装砲改三丙
+  type: [1, 1, 3, 3, 0]
+  rare: 5
+  broken: [0, 21, 26, 6]
   info: 
   usebull: 0
   cost: 9
   distance: 8
   stats:
     taik: 0
-    souk: 0
-    houg: 0
+    souk: 4
+    houg: 21
     raig: 0
     soku: 0
     baku: 0
-    tyku: 10
+    tyku: 3
     tais: 0
     atap: 0
-    houm: 5
-    raim: 21
+    houm: 3
+    raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 10
+    saku: 0
     sakb: 0
     luck: 0
-    leng: 0
+    leng: 3
   improvement: 
   chinese_name: 对空雷达 Mark.II
 ---

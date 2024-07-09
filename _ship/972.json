@@ -6,17 +6,17 @@ data:
   name: 伊41
   yomi: い41
   stype: 14
-  ctype: 
-  cnum: 
+  ctype: 127
+  cnum: 2
   backs: 5
   after_lv: 50
   after_ship_id: 977
   get_mes: 伊号潜水艦、巡潜乙型改一。その二番艦、伊41、見参！<br>あんたが提督って訳かい？　あの艦長とどっちがすげーかな？<br>ま、見せておくれよ、その采配ってのを！
   voice_f: 1
   filename: dmjndywdalef
-  file_version: ["51", "1", "229"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "627"]
+  book_table_id: [972]
+  book_sinfo: 伊号潜水艦、主力の巡潜乙型の改良型、その二番艦<br>伊41だ。名艦長の板倉艦長の指揮で、結構危ない橋を<br>何度も渡って任務を成功させてきたんだ。<br>艦長と縁の深い昔の上官を助けるために既に危険海域<br>だったブインの補給にも向かったよ。<br>みんなの事……忘れるなよ。
   stats:
     taik: [14, 19]
     souk: [4, 20]
@@ -26,8 +26,8 @@ data:
     luck: [18, 71]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 12
+    tais: 0
     slot_num: 2
     max_eq: [1, 1, 0, 0, 0]
     after_fuel: 170

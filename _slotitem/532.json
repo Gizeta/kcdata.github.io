@@ -3,11 +3,11 @@ layout: json
 order: 532
 data:
   id: 532
-  sort_no: 0
-  name: 深海対空レーダ―
-  type: [5, 8, 13, 11, 0]
-  rare: 4
-  broken: [0, 0, 0, 0]
+  sort_no: 532
+  name: 通信装置&要員
+  type: [12, 22, 34, 28, 0]
+  rare: 2
+  broken: [1, 0, 2, 5]
   info: 
   usebull: 0
   cost: 9
@@ -19,15 +19,15 @@ data:
     raig: 0
     soku: 0
     baku: 0
-    tyku: 18
-    tais: 5
+    tyku: 0
+    tais: 0
     atap: 0
-    houm: 16
-    raim: 13
-    houk: 2
+    houm: 0
+    raim: 0
+    houk: 0
     raik: 0
     bakk: 0
-    saku: 12
+    saku: 1
     sakb: 0
     luck: 0
     leng: 0

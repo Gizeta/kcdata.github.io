@@ -7,16 +7,16 @@ data:
   yomi: はつづき
   stype: 2
   ctype: 54
-  cnum: 
+  cnum: 4
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: vpfhfqunnwts
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  filename: ojfggcctkimu
+  file_version: ["51", "1", "627"]
+  book_table_id: [968]
+  book_sinfo: 改秋月型防空駆逐艦、初月だ。<br>姉さんたちと共に、第六十一駆逐隊を編成、マリアナ<br>沖海戦や、レイテ沖海戦に参加した。<br>防空戦闘、空母救援を実施した後、艦隊の殿として<br>僕は敵艦隊に向かった。そうだ、今度も守り抜く。
   stats:
     taik: [39, 58]
     souk: [19, 57]
@@ -26,8 +26,8 @@ data:
     luck: [18, 85]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 54
+    tais: 32
     slot_num: 4
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 0
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 4, 1]
     build_time: 30
   graph:
-    boko_n: [318, 168]
-    boko_d: [192, 204]
-    kaisyu_n: [39, -1]
-    kaisyu_d: [63, 16]
-    kaizo_n: [240, 60]
-    kaizo_d: [108, 72]
-    map_n: [240, 120]
-    map_d: [108, 138]
-    ensyuf_n: [240, 126]
-    ensyuf_d: [120, 126]
-    ensyue_n: [240, 0]
-    battle_n: [288, 156]
-    battle_d: [144, 156]
-    wed_a: [36, 48]
-    wed_b: [168, 204]
+    boko_n: [36, 207]
+    boko_d: [110, 213]
+    kaisyu_n: [30, 12]
+    kaisyu_d: [104, -54]
+    kaizo_n: [13, 102]
+    kaizo_d: [120, 32]
+    map_n: [41, 170]
+    map_d: [171, 142]
+    ensyuf_n: [34, 171]
+    ensyuf_d: [171, 121]
+    ensyue_n: [34, 0]
+    battle_n: [54, 191]
+    battle_d: [218, 154]
+    wed_a: [290, -29]
+    wed_b: [148, 201]
   wiki_id: "568"
   chinese_name: 初月改二
   can_drop: false

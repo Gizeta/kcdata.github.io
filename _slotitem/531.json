@@ -3,11 +3,11 @@ layout: json
 order: 531
 data:
   id: 531
-  sort_no: 0
-  name: 深海水上レーダー
-  type: [5, 8, 13, 11, 0]
+  sort_no: 531
+  name: 艦隊通信アンテナ
+  type: [12, 22, 34, 28, 0]
   rare: 3
-  broken: [0, 0, 0, 0]
+  broken: [0, 0, 13, 15]
   info: 
   usebull: 0
   cost: 9
@@ -19,15 +19,15 @@ data:
     raig: 0
     soku: 0
     baku: 0
-    tyku: 5
-    tais: 5
+    tyku: 0
+    tais: 0
     atap: 0
-    houm: 24
-    raim: 13
-    houk: 3
+    houm: 1
+    raim: 0
+    houk: 0
     raik: 0
     bakk: 0
-    saku: 16
+    saku: 1
     sakb: 0
     luck: 0
     leng: 0

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 625
+  type: 1
+  no: 106
+  title: 木漏れ日のすだれ
+  description: 梅雨が明けると少しずつ夏<br>の気配が感じられるように<br>なります。夏の木漏れ日を<br>楽しむ、そんな季節に最適<br>のすだれをどうぞ！
+  rarity: 4
+  price: 2200
+  saleflg: 1
+  season: 
+  filename: 
+  file_version: ""
+---

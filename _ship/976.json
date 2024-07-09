@@ -6,17 +6,17 @@ data:
   name: 伊36改
   yomi: い36
   stype: 14
-  ctype: 
-  cnum: 
+  ctype: 39
+  cnum: 17
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: kcgsfubnizzk
-  file_version: ["51", "1", "229"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "627"]
+  book_table_id: [976]
+  book_sinfo: 伊号潜水艦、主力として量産された巡潜乙型、その<br>17番艦伊36です。太平洋を南へ北へと目一杯奮戦し<br>ました。数々の厳しい作戦に参加しましたが、名艦長<br>の指揮の下、戦いの終わる夏の日まで艦は生き残るこ<br>ととなりました。最期は、伊47たちと共に五島列島沖<br>で眠りにつきます。
   stats:
     taik: [18, 24]
     souk: [4, 20]
@@ -26,8 +26,8 @@ data:
     luck: [48, 96]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 12
+    tais: 0
     slot_num: 2
     max_eq: [1, 2, 0, 0, 0]
     after_fuel: 
